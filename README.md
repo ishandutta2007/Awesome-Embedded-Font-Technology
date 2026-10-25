@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Embedded-Font-Technology/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedded-Font-Technology?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Embedded-Font-Technology/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedded-Font-Technology?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Font-Technology/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Embedded-Font-Technology?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Font-Technology/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Embedded-Font-Technology?style=flat-square&color=green" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Font-Technology/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Embedded-Font-Technology?style=flat-square&color=orange" alt="Issues" /></a>
@@ -60,9 +60,9 @@ The following table presents major commercial platforms and SaaS services offeri
 
 ## Open-Source Font Engines & Embedded Graphics Libraries 💻
 
-Ranked in descending order by **GitHub Stargazers count** 🌟. Click on any star badge to jump directly to the repository's stargazers.
+Ranked in descending order by **GitHub Stargazers count** 🌟. Click on any Stars_Badge to jump directly to the repository's stargazers.
 
-| Project Name | Repository | GitHub Stars Badge | Primary Language / Type | Description |
+| Project Name | Repository | GitHub_Stars_Badge | Primary Language / Type | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **stb (`stb_truetype`)** ⚡ | [`nothings/stb`](https://github.com/nothings/stb) | [![Stars](https://img.shields.io/github/stars/nothings/stb?style=social&color=white)](https://github.com/nothings/stb/stargazers) | C (Header-Only) | Legendary public domain header-only C library providing blazingly fast TrueType font parsing and rasterization, ideal for embedded games and resource-constrained UI. |
 | **LVGL** 📱 | [`lvgl/lvgl`](https://github.com/lvgl/lvgl) | [![Stars](https://img.shields.io/github/stars/lvgl/lvgl?style=social&color=white)](https://github.com/lvgl/lvgl/stargazers) | C | Most popular open-source embedded GUI library for microcontrollers and displays; includes built-in bitmap font engines, sub-pixel rendering, font converters, and FreeType bindings. |
@@ -134,7 +134,7 @@ Contributions are very welcome! To maintain quality:
 1. 🍴 Fork the repository.
 2. 🌿 Create a feature branch: `git checkout -b feature/add-new-font-engine`.
 3. 📝 Add your tool or library to the appropriate table.
-4. 🌟 Ensure GitHub repositories include a star count badge linking to the stargazer page (`https://img.shields.io/github/stars/...`).
+4. 🌟 Ensure GitHub repositories include a Stars_Count badge linking to the stargazer page (`https://img.shields.io/github/stars/...`).
 5. 📬 Submit a pull request detailing why the tool belongs in this embedded font directory.
 
 ---
