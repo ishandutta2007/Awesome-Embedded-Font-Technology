@@ -10,6 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Font-Technology/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Embedded-Font-Technology?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Font-Technology/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Embedded-Font-Technology?style=flat-square&color=green" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Font-Technology/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Embedded-Font-Technology?style=flat-square&color=orange" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -27,6 +28,8 @@ Whether you are targeting low-power microcontrollers (such as ARM Cortex-M, ESP3
 - [SaaS & Hosted Commercial Font Platforms ☁️](#saas--hosted-commercial-font-platforms-️)
 - [Open-Source Font Engines & Embedded Graphics Libraries 💻](#open-source-font-engines--embedded-graphics-libraries-)
 - [Architecture & Implementation Guide 🛠️](#architecture--implementation-guide-️)
+- [Support & Community 💖](#support--community-)
+- [Star History 📈](#star-history)
 - [How to Contribute 🤝](#how-to-contribute-)
 - [License 📄](#license-)
 
@@ -106,6 +109,22 @@ When developing UI on resource-constrained embedded systems and IoT devices, sel
 ### 4. Enterprise Turnkey Commercial Engines 🏢
 * **Tools:** Monotype Spark™, Monotype iType®.
 * **Mechanism:** Patented auto-hinting, sub-pixel tuning, and specialized compression for international scripts (CJK, Arabic, Indic) inside ultra-low memory budgets.
+
+---
+
+## Support & Community 💖
+
+Thank you so much for exploring **Awesome Embedded Font Technology**! If you find this curated resource helpful for your embedded systems, firmware projects, or typography pipelines:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and contribute** your favorite font engines and tools.
+- 📢 **Share with your team & networks** across embedded systems, IoT, and typography developer communities.
+- ☕ **Support the maintainer**: If you'd like to fuel further updates and open-source curation, consider buying a coffee or sponsoring via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Embedded-Font-Technology&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Embedded-Font-Technology&type=date&legend=top-left)
 
 ---
 
